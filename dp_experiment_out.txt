@@ -1,0 +1,2 @@
+dataset: data/physics, GM: False, EM:False, V0:-1.0, DP-PPR epsilon: 0, DPSGD epsilon: 0, K: 4, Test acc: 0.9301
+dataset: data/cora_ml, GM: False, EM:False, V0:-1.0, DP-PPR epsilon: 0, DPSGD epsilon: 0, K: 4, Test acc: 0.6608
