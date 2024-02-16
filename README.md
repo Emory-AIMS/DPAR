@@ -1,5 +1,6 @@
 # DPAR: Decoupled Graph Neural Networks with Node-Level Differential Privacy
 
+ Accepted at 2024 ACM International World Wide Web Conference (WWW 24)
 
 ## Install metis on mac:  
 
