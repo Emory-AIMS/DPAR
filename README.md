@@ -1,4 +1,4 @@
-# DPAR: Decoupled Graph Neural Networks with Node-Level Differential Privacy
+# Implementation of [DPAR: Decoupled Graph Neural Networks with Node-Level Differential Privacy](https://www2024.thewebconf.org/accepted/research-tracks/)
 
  Accepted at 2024 ACM International World Wide Web Conference (WWW 24)
 
